@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evtone
 - 👀 I’m interested in AI,ML,Data science 
-- 🌱 I’m currently learning Data structures and algorithm 
+- 🌱 I’m currently learning MLOps and DevOps. 
 - 💞️ I’m looking to collaborate on a few personal projects 
 - 📫 How to reach me elvisokoo0@gmail.com 
 - 😄 Pronouns: He
